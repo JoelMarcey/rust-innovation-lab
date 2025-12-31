@@ -169,10 +169,10 @@ body:
         Is your project funded (or do you expect it to be funded in the
         near future)?
       description: >
-        We will ask for further details as we review your application,
-        including the name(s) of funders, the amounts involved, any
-        restrictions or conditions on the funds, and any requirements
-        around reporting expenditure back to the funder.
+        We will ask privately via email for further details as we review 
+        your application, including the name(s) of funders, the amounts 
+        involved, any restrictions or conditions on the funds, and any 
+        requirements around reporting expenditure back to the funder.
       options:
         - 'Yes'
         - 'No'
